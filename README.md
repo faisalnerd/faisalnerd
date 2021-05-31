@@ -1,4 +1,4 @@
-
+<!-- 
 <h2> Hey there! I'm Faisal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -37,7 +37,7 @@
 &nbsp; <a href="md.faisal1899@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [mdfaisalabdullah](https://github.com/mdfaisalabdullah)
+⭐️ From [mdfaisalabdullah](https://github.com/mdfaisalabdullah) -->
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
